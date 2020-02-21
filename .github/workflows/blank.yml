@@ -1,0 +1,11 @@
+name: CI
+
+on: [push]
+
+jobs:
+  build:
+
+    runs-on: python. 
+
+    steps: install required packages and run the program
+
